@@ -1,0 +1,3 @@
+node_modules
+/backend/cloth_segm_u2net_latest.pth
+/backend/ckpts2
